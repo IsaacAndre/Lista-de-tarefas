@@ -1,11 +1,10 @@
-# Lista-de-tarefas
-Metas
+#METAS
+***
 -Estudar Html5
 -Estudar Css
 -Estudar JavaScript
 -Estudar Markdown
--Estudar protocolo PHP
--Estudar como usar o Git eo GitHub
--Conseguir programar um site ou página só vendo o Layout
--Fazer projetos para aprensentações
+-Estudar Git e GitHub
+-Estudar Python
+-Conseguir fazer um site ou página só vendo o Layout
 -Ir para Portugal
